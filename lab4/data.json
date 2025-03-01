@@ -1,0 +1,13 @@
+{
+    "imdata": [
+        {
+            "l1PhysIf": {
+                "attributes": {
+                    "dn": "eth1/1",
+                    "speed": "1000",
+                    "mtu": "1500"
+                }
+            }
+        }
+    ]
+}
