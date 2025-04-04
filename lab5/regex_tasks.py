@@ -4,7 +4,7 @@ import re
 def match_a_b(s):
     return re.fullmatch(r'a[b]*', s)
 
-print(match_a_b("abbb"))
+print(match_a_b("a"))
 
 #2
 def match_a_bb(s):
@@ -25,10 +25,11 @@ def find_upper_lower(s):
 print(find_upper_lower("HelloWorld TestString"))
 
 #5
+
 def match_a_any_b(s):
     return re.fullmatch(r'a.*b', s)
 
-print(match_a_any_b("a123b"))
+print(match_a_any_b("ab"))
 
 #6
 def replace_with_colon(s):

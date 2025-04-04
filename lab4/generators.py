@@ -3,6 +3,7 @@ print("1:")
 def make_squares(value):
     for i in range(value + 1):
         yield i ** 2
+    yield 25
 
 for square in make_squares(5):
     print(square)
