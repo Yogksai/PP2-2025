@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Иван",
+      "second_name": "Иванович",
+      "last_name": "Иванов",
+      "phone_number": "87017502020"
+    },
+    {
+      "name": "Анна",
+      "second_name": "Сергеевна",
+      "last_name": "Петрова",
+      "phone_number": "87015553322"
+    },
+    {
+      "name": "Дмитрий",
+      "second_name": "Алексеевич",
+      "last_name": "Сидоров",
+      "phone_number": "87019998877"
+    },
+    {
+      "name": "Мария",
+      "second_name": "Николаевна",
+      "last_name": "Кузнецова",
+      "phone_number": "87012224455"
+    },
+    {
+      "name": "Алексей",
+      "second_name": "Владимирович",
+      "last_name": "Фёдоров",
+      "phone_number": "87013334411"
+    },
+    {
+      "name": "Екатерина",
+      "second_name": "Павловна",
+      "last_name": "Морозова",
+      "phone_number": "87018889900"
+    },
+    {
+      "name": "Сергей",
+      "second_name": "Игоревич",
+      "last_name": "Волков",
+      "phone_number": "87014445566"
+    },
+    {
+      "name": "Ольга",
+      "second_name": "Андреевна",
+      "last_name": "Алексеева",
+      "phone_number": "87010009988"
+    },
+    {
+      "name": "Никита",
+      "second_name": "Юрьевич",
+      "last_name": "Мельников",
+      "phone_number": "87016667755"
+    },
+    {
+      "name": "Наталья",
+      "second_name": "Викторовна",
+      "last_name": "Романова",
+      "phone_number": "87011112233"
+    }
+  ]
+  
